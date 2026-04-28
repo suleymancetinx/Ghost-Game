@@ -24,4 +24,5 @@ Oyun alanı her seviyede rastgele (procedural) olarak yeniden oluşturulur ve se
 4. Kırmızı neon renkli hayaletlere (**👻**) dokunursanız oyun biter!
 
 ## 💻 Kurulum ve Çalıştırma
-Bu oyun sunucu veya veritabanı gerektirmez. Kodu çalıştırmak için `Ghost_Game.html` dosyasını indirip modern bir web tarayıcısında (Chrome, Safari, Edge vb.) açmanız yeterlidir.
+Bu oyun sunucu veya veritabanı gerektirmez. 
+https://suleymancetinx.github.io/Ghost-Game/Ghost_Game.html  Bu linkten oynayabilirsiniz :)
