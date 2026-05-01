@@ -25,4 +25,5 @@ Oyun alanı her seviyede rastgele (procedural) olarak yeniden oluşturulur ve se
 
 ## 💻 Kurulum ve Çalıştırma
 Bu oyun sunucu veya veritabanı gerektirmez. 
-https://suleymancetinx.github.io/Ghost-Game/Ghost_Game.html  Bu linkten oynayabilirsiniz :)
+https://suleymancetinx.github.io/Ghost-Game/Ghost_Game.html  
+Bu linkten oynayabilirsiniz :)
